@@ -1,0 +1,1 @@
+script.js: console.log("Student Task Manager");
