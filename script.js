@@ -1,4 +1,3 @@
-script.js: console.log("Student Task Manager");
 const tasks = [];
 const titleInput = document.getElementById('task-title');
 const descInput = document.getElementById('task-description');
